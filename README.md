@@ -9,3 +9,22 @@ Triangles are pretty rad.
   }
 }
 ```
+
+Pretty simple, directions are
+
+* top
+* top-right
+* right
+* bottom-right
+* bottom
+* bottom-left
+* left
+* top-left
+
+Then pass a width, height and a color. Pretty easy.
+
+## Install via Bower
+
+```
+bower install stitch-triangle
+```
